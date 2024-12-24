@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,12 Канал
+http://193.107.168.98:7006/play/518/index.m3u8
+#EXTINF:-1,36.6 SD
+http://193.107.168.98:7006/play/474/index.m3u8
+#EXTINF:-1,4EVER Music
+http://193.107.168.98:7006/play/527/index.m3u8
+#EXTINF:-1,Fox
+http://193.107.168.98:7006/play/521/index.m3u8
+#EXTINF:-1,Fox Life
+http://193.107.168.98:7006/play/522/index.m3u8
+#EXTINF:-1,KvartalTV
+http://193.107.168.98:7006/play/475/index.m3u8
+#EXTINF:-1,OBOZ TV
+http://193.107.168.98:7006/play/461/index.m3u8
+#EXTINF:-1,OBOZ TV HD
+http://193.107.168.98:7006/play/462/index.m3u8
+#EXTINF:-1,Setanta Sports
+http://193.107.168.98:7006/play/514/index.m3u8
+#EXTINF:-1,Star Cinema
+http://193.107.168.98:7006/play/464/index.m3u8
+#EXTINF:-1,UA:Перший HD
+http://193.107.168.98:7006/play/526/index.m3u8
+#EXTINF:-1,Viasat Kino
+http://193.107.168.98:7006/play/525/index.m3u8
+#EXTINF:-1,Наталі
+http://193.107.168.98:7006/play/491/index.m3u8
+#EXTINF:-1,Суспільне Луцьк
+http://193.107.168.98:7006/play/508/index.m3u8

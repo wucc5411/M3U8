@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,TV Opoja
+http://195.200.234.186:9000/play/a0012
+#EXTINF:-1,21 MIX
+http://195.200.234.186:9000/play/a05d
+#EXTINF:-1,ATV
+http://195.200.234.186:9000/play/a05j
+#EXTINF:-1,Arta News
+http://195.200.234.186:9000/play/a05b
+#EXTINF:-1,FirstChanel
+http://195.200.234.186:9000/play/a05w
+#EXTINF:-1,InfoChannel
+http://195.200.234.186:9000/play/a060
+#EXTINF:-1,RTK 2
+http://195.200.234.186:9000/play/a0017
+#EXTINF:-1,RTK 3
+http://195.200.234.186:9000/play/a058
+#EXTINF:-1,RTK 4
+http://195.200.234.186:9000/play/a059
+#EXTINF:-1,RTV 21 Junior
+http://195.200.234.186:9000/play/a05e
+#EXTINF:-1,RTV 21 MK
+http://195.200.234.186:9000/play/a05f
+#EXTINF:-1,TV 21
+http://195.200.234.186:9000/play/a05c
+#EXTINF:-1,TV 21 Popullore
+http://195.200.234.186:9000/play/a05g
+#EXTINF:-1,TV Besa
+http://195.200.234.186:9000/play/a040
+#EXTINF:-1,TV Prizreni
+http://195.200.234.186:9000/play/a0010

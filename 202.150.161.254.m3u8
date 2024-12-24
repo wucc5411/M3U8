@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,nick
+http://202.150.161.254:4000/play/a00a/index.m3u8
+#EXTINF:-1,nickjr
+http://202.150.161.254:4000/play/a00b/index.m3u8
+#EXTINF:-1,wc1
+http://202.150.161.254:4000/play/wc1/index.m3u8
+#EXTINF:-1,wc2
+http://202.150.161.254:4000/play/wc2/index.m3u8
